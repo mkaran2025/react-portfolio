@@ -51,4 +51,16 @@ The project focuses on:
 ---
 
 ## 📂 Project Structure
+src/
+├── components/
+│ ├── Navbar.jsx
+│ └── Footer.jsx
+├── pages/
+│ ├── Home.jsx
+│ ├── About.jsx
+│ ├── Experience.jsx
+│ ├── Projects.jsx
+│ └── Contact.jsx
+├── assets/
+└── App.jsx
 
