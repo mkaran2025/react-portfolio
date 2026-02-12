@@ -1,0 +1,5 @@
+- [x] Add Experience link to Navbar.jsx
+- [x] Remove Navbar from Experience.jsx
+- [x] Remove Navbar from Projects.jsx
+- [x] Remove Navbar from Contact.jsx
+- [x] Update TODO.md to mark tasks as completed
