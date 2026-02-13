@@ -69,28 +69,29 @@ src/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page]([https://raw.githubusercontent.com/mkaran2025/react-portfolio/main/assets/screenshots/home.png](https://github.com/mkaran2025/react-portfolio/blob/main/home%20page.png?raw=true)
+![Home Page](https://github.com/mkaran2025/react-portfolio/blob/main/home%20page.png?raw=true)
 
 ---
 
 ### 👤 About Page
-![About Page][(https://raw.githubusercontent.com/mkaran2025/react-portfolio/main/assets/screenshots/about.png](https://github.com/mkaran2025/react-portfolio/blob/main/about%20page.png?raw=true)
+![About Page](https://github.com/mkaran2025/react-portfolio/blob/main/about%20page.png?raw=true)
 
 ---
 
 ### 💼 Experience Page
-![Experience Page]([https://raw.githubusercontent.com/mkaran2025/react-portfolio/main/assets/screenshots/experience.png](https://github.com/mkaran2025/react-portfolio/blob/main/experience%20page.png?raw=true)
+![Experience Page](https://github.com/mkaran2025/react-portfolio/blob/main/experience%20page.png?raw=true)
 
 ---
 
 ### 💼 Projects Section
-![Projects]([https://raw.githubusercontent.com/mkaran2025/react-portfolio/main/assets/screenshots/projects.png](https://github.com/mkaran2025/react-portfolio/blob/main/project%20page.png?raw=true)
+![Projects](https://github.com/mkaran2025/react-portfolio/blob/main/project%20page.png?raw=true)
 
 ---
 
 ### 📬 Contact Section
-![Contact]([https://raw.githubusercontent.com/mkaran2025/react-portfolio/main/assets/screenshots/contact.png](https://github.com/mkaran2025/react-portfolio/blob/main/contact%20me%20page.png?raw=true)
+![Contact](https://github.com/mkaran2025/react-portfolio/blob/main/contact%20me%20page.png?raw=true)
 
 ---
+
 
 
