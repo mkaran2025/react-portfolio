@@ -8,7 +8,7 @@ This portfolio showcases my frontend development skills, projects, and experienc
 
 ## 🌐 Live Demo
 
-🔗 https://your-live-link.vercel.app  
+🔗 mellifluous-liger-199647.netlify.app 
 (Deploy on Vercel and update this link)
 
 ---
